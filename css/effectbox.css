@@ -1,0 +1,7 @@
+.effectbox{
+	width: 300px;
+	height: 250px;
+	float: left;
+	margin: 50px;
+	border-radius: 20px;
+}
